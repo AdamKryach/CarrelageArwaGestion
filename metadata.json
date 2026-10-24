@@ -1,0 +1,6 @@
+{
+  "name": "CarrelageArwa Management System",
+  "description": "Système complet de gestion commerciale, stocks de carrelage et sanitaires, facturation et developer panel pour CarrelageArwa Maroc.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
